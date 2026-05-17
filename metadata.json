@@ -1,0 +1,6 @@
+{
+  "name": "QPMS - Question Paper Management System",
+  "description": "A comprehensive prototype for managing question paper setting, review, and allocation with role-based dashboards for COE, Setters, and Reviewers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
