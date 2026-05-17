@@ -121,7 +121,7 @@ PORT=3000
 Khushi Kumar
 
 - GitHub: https://github.com/khushikumar124
-- LinkedIn: https://linkedin.com
+- LinkedIn: https://linkedin.com/khushikumar68
 
 ---
 
